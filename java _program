@@ -1,0 +1,26 @@
+import java.io.*;
+import java.util.*;
+public class SElinium {
+
+
+
+
+
+  public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        // Declare the variables       
+  
+        // Input the integer
+        System.out.println("Enter the integer: ");
+         // Read the next integer from the screen
+         
+        // Display the integer
+        System.out.println("Entered integer is: "
+                           + args[0]);
+    }
+
+
+
+
+
+}
